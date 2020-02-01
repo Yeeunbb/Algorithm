@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -101,5 +100,3 @@ int FindIntersection(int A[], int n){ //교집합을 찾는 함수
 
 	return result;
 }
-
-*/
