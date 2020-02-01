@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -67,5 +66,3 @@ void quickSort(int a[], int first, int last) { //ÄüÁ¤·Ä
 		quickSort(a, right+1, last);
 	}
 }
-
-*/
